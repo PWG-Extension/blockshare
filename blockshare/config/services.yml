@@ -1,0 +1,6 @@
+services:
+    pwg.blockshare.listener:
+        class: pwg\blockshare\event\listener
+        arguments:
+        tags:
+            - { name: event.listener }
