@@ -1,7 +1,7 @@
 {
     "name": "pwg/blockshare",
     "type": "phpbb-extension",
-    "description": "Extension adds into the messages in the topics - the «Share» block.",
+    "description": "Extension adds the «Share» block to the messages.",
     "homepage": "https://github.com/PWG-Extension/blockshare",
     "keywords": ["PWG", "phpBB3", "share", "block", "yandex"],
     "version": "1.0.0",
@@ -11,7 +11,7 @@
         {
             "name": "Alexander Kadnikov",
             "username": "Predator",
-            "homepage": "http://www.pwg-extension.ru",
+            "homepage": "http://www.pwg-extension.ru/viewtopic.php?f=2&t=3",
             "role": "Developer"
         }
     ],
