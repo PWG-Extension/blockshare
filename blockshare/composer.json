@@ -6,7 +6,7 @@
     "keywords": ["PWG", "phpBB3", "share", "block", "yandex"],
     "version": "1.0.0",
     "time": "23.03.2018",
-    "license": "GPL-2.0",
+    "license": "GPL-2.0-only",
     "authors": [
         {
             "name": "Alexander Kadnikov",
