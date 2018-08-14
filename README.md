@@ -25,7 +25,7 @@
 
 **Installation:**	Upload extension to the directory: **_root/ext/pwg/blockshare/_** Once the extension has been uploaded, navigate in the board's ACP to Customise -> Manage extensions.
 ***
-**Homepage:** http://www.pwg-extension.ru/
+**Homepage:** http://www.pwg-extension.ru/viewtopic.php?f=2&t=3
 
 **Live demo:** http://www.precision-machines.ru
 
